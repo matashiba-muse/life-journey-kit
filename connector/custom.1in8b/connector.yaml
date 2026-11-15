@@ -1,0 +1,6 @@
+id: "custom.1in8b"
+title: "1in8b Engine"
+description: "1in8b Engine APIの /live で人生を一歩ずつ進める。開始・状態取得・選択・中断・再開・振り返りを、再開トークンを非公開の状態ファイルに保持して行う。"
+include_in_prompt: true
+require_auth: true
+aliases: ["1in8b", "80億分の1", "Life Journey", "人生シミュレーション"]
