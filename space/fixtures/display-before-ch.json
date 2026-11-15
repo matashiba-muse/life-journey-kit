@@ -1,0 +1,414 @@
+{
+  "schema_version": 1,
+  "life_id": "life-20261113190820-001-dc7f",
+  "status": "active",
+  "updated_at": "2026-11-13T10:08:21+00:00",
+  "engine": "mock-1.0",
+  "person": {
+    "name": "Maria Santos",
+    "sex": "female",
+    "age": 34,
+    "year": 2060,
+    "country": "BRA",
+    "place": "town"
+  },
+  "state": {
+    "job": "office_worker",
+    "education": "university",
+    "income": 24000,
+    "net_worth": 48000,
+    "health": 90,
+    "happiness": 88,
+    "knowledge": 30,
+    "bonds": 64,
+    "partner": "present",
+    "children": 2
+  },
+  "events": [
+    [
+      28,
+      "決断した: partner（モック）"
+    ],
+    [
+      34,
+      "次の節目が近づいてきた（モック）"
+    ]
+  ],
+  "timeline": [
+    [
+      0,
+      "BRAに生まれた（モック）"
+    ],
+    [
+      3,
+      "近所の子と遊ぶようになった（モック）"
+    ],
+    [
+      6,
+      "小学校に入学した（モック）"
+    ],
+    [
+      6,
+      "決断した: school_start（モック）"
+    ],
+    [
+      15,
+      "次の節目が近づいてきた（モック）"
+    ],
+    [
+      15,
+      "決断した: high_school（モック）"
+    ],
+    [
+      18,
+      "次の節目が近づいてきた（モック）"
+    ],
+    [
+      18,
+      "決断した: after_school（モック）"
+    ],
+    [
+      23,
+      "次の節目が近づいてきた（モック）"
+    ],
+    [
+      23,
+      "決断した: first_job（モック）"
+    ],
+    [
+      28,
+      "次の節目が近づいてきた（モック）"
+    ],
+    [
+      28,
+      "決断した: partner（モック）"
+    ],
+    [
+      34,
+      "次の節目が近づいてきた（モック）"
+    ]
+  ],
+  "choices": [
+    {
+      "step": 1,
+      "age": 6,
+      "decision_id": "school_start",
+      "question": "小学校に通い始める。どんなふうに過ごす？",
+      "about": "入学",
+      "fact": "モック用の決断カードです。実APIの文章ではありません。",
+      "options": [
+        {
+          "key": "enjoy",
+          "label": "元気に遊んで学ぶ"
+        },
+        {
+          "key": "focus",
+          "label": "勉強に集中する"
+        }
+      ],
+      "choose": "enjoy",
+      "label": "元気に遊んで学ぶ",
+      "reason": "フィクスチャ用の決断1",
+      "scene": {
+        "timeline_len": 3,
+        "state": {
+          "job": null,
+          "education": "primary",
+          "income": 0,
+          "net_worth": 0,
+          "health": 90,
+          "happiness": 70,
+          "knowledge": 10,
+          "bonds": 40,
+          "partner": null,
+          "children": 0
+        }
+      },
+      "at": "2026-11-13T10:08:20+00:00"
+    },
+    {
+      "step": 2,
+      "age": 15,
+      "decision_id": "high_school",
+      "question": "進学先の高校をどうする？",
+      "about": "進学",
+      "fact": "モック用の決断カードです。実APIの文章ではありません。",
+      "options": [
+        {
+          "key": "local",
+          "label": "地元の高校へ"
+        },
+        {
+          "key": "advanced",
+          "label": "進学校を目指す"
+        }
+      ],
+      "choose": "local",
+      "label": "地元の高校へ",
+      "reason": "フィクスチャ用の決断2",
+      "scene": {
+        "timeline_len": 5,
+        "state": {
+          "job": null,
+          "education": "primary",
+          "income": 0,
+          "net_worth": 0,
+          "health": 90,
+          "happiness": 76,
+          "knowledge": 10,
+          "bonds": 48,
+          "partner": null,
+          "children": 0
+        }
+      },
+      "at": "2026-11-13T10:08:21+00:00"
+    },
+    {
+      "step": 3,
+      "age": 18,
+      "decision_id": "after_school",
+      "question": "高校を出たあとの道は？",
+      "about": "進路",
+      "fact": "モック用の決断カードです。実APIの文章ではありません。",
+      "options": [
+        {
+          "key": "university",
+          "label": "大学へ進む"
+        },
+        {
+          "key": "vocational",
+          "label": "専門学校で技術を学ぶ"
+        },
+        {
+          "key": "work",
+          "label": "すぐ働く"
+        }
+      ],
+      "choose": "university",
+      "label": "大学へ進む",
+      "reason": "フィクスチャ用の決断3",
+      "scene": {
+        "timeline_len": 7,
+        "state": {
+          "job": null,
+          "education": "primary",
+          "income": 0,
+          "net_worth": 0,
+          "health": 90,
+          "happiness": 80,
+          "knowledge": 10,
+          "bonds": 52,
+          "partner": null,
+          "children": 0
+        }
+      },
+      "at": "2026-11-13T10:08:21+00:00"
+    },
+    {
+      "step": 4,
+      "age": 23,
+      "decision_id": "first_job",
+      "question": "最初の仕事を選ぶ。",
+      "about": "就職",
+      "fact": "モック用の決断カードです。実APIの文章ではありません。",
+      "options": [
+        {
+          "key": "office",
+          "label": "会社の仕事"
+        },
+        {
+          "key": "craft",
+          "label": "ものづくりの仕事"
+        },
+        {
+          "key": "care",
+          "label": "人を支える仕事"
+        }
+      ],
+      "choose": "office",
+      "label": "会社の仕事",
+      "reason": "フィクスチャ用の決断4",
+      "scene": {
+        "timeline_len": 9,
+        "state": {
+          "job": null,
+          "education": "university",
+          "income": 0,
+          "net_worth": 0,
+          "health": 90,
+          "happiness": 80,
+          "knowledge": 30,
+          "bonds": 52,
+          "partner": null,
+          "children": 0
+        }
+      },
+      "at": "2026-11-13T10:08:21+00:00"
+    },
+    {
+      "step": 5,
+      "age": 28,
+      "decision_id": "partner",
+      "question": "パートナーとの将来をどうする？",
+      "about": "恋愛・結婚",
+      "fact": "モック用の決断カードです。実APIの文章ではありません。",
+      "options": [
+        {
+          "key": "marry",
+          "label": "結婚する"
+        },
+        {
+          "key": "wait",
+          "label": "もう少し待つ"
+        },
+        {
+          "key": "single",
+          "label": "一人の道を行く"
+        }
+      ],
+      "choose": "marry",
+      "label": "結婚する",
+      "reason": "フィクスチャ用の決断5",
+      "scene": {
+        "timeline_len": 11,
+        "state": {
+          "job": "office_worker",
+          "education": "university",
+          "income": 24000,
+          "net_worth": 48000,
+          "health": 90,
+          "happiness": 80,
+          "knowledge": 30,
+          "bonds": 52,
+          "partner": null,
+          "children": 0
+        }
+      },
+      "at": "2026-11-13T10:08:21+00:00"
+    }
+  ],
+  "chapters": [],
+  "decision": {
+    "id": "move",
+    "question": "住む場所の誘いがある。どうする？",
+    "about": "移住",
+    "fact": "モック用の決断カードです。実APIの文章ではありません。",
+    "choices": [
+      {
+        "key": "stay",
+        "label": "今の場所に残る",
+        "note": "落ち着いた生活"
+      },
+      {
+        "key": "city",
+        "label": "都会へ出る",
+        "note": "機会は増える"
+      },
+      {
+        "key": "abroad",
+        "label": "外国へ移る",
+        "note": "大きな変化"
+      }
+    ]
+  },
+  "focus": null,
+  "sheet": [],
+  "ended": false,
+  "death": null,
+  "last_choice": {
+    "step": 5,
+    "choose": "marry",
+    "reason": "フィクスチャ用の決断5",
+    "decision_id": "partner",
+    "at": "2026-11-13T10:08:21+00:00",
+    "age": 28,
+    "question": "パートナーとの将来をどうする？",
+    "about": "恋愛・結婚",
+    "fact": "モック用の決断カードです。実APIの文章ではありません。",
+    "label": "結婚する"
+  },
+  "step_count": 5,
+  "counters": {
+    "step_intents": 5,
+    "confirmed_steps": 5,
+    "unknown_steps": 0
+  },
+  "revision": 6,
+  "last_incident": null,
+  "epilogue": null,
+  "animation": {
+    "kind": "thinking",
+    "signal": "decision_pending",
+    "health_trend": "flat",
+    "scene": "work"
+  },
+  "usage": {
+    "this_call": 1
+  },
+  "key_acquired_on": null,
+  "credit": "1in8b Engine (1in8b.life)",
+  "credit_url": "https://1in8b.life",
+  "sources": [
+    {
+      "id": "wpp",
+      "name": "UN World Population Prospects 2024",
+      "by": "UN DESA Population Division",
+      "licence": "CC BY 3.0 IGO"
+    },
+    {
+      "id": "igme",
+      "name": "UN Inter-agency Group for Child Mortality Estimation (UN IGME)",
+      "by": "UNICEF, WHO, World Bank, UN DESA",
+      "licence": "CC BY 4.0 (as published in World Bank WDI)"
+    },
+    {
+      "id": "wdi",
+      "name": "World Development Indicators",
+      "by": "World Bank",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "id": "hdr",
+      "name": "Human Development Report",
+      "by": "UNDP",
+      "licence": "CC BY 3.0 IGO"
+    },
+    {
+      "id": "migstock",
+      "name": "International Migrant Stock 2020",
+      "by": "UN DESA Population Division",
+      "licence": "CC BY 3.0 IGO"
+    },
+    {
+      "id": "ghe",
+      "name": "Global Health Estimates 2021",
+      "by": "World Health Organization",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "id": "whr",
+      "name": "World Happiness Report 2024 (Figure 2.1 data)",
+      "by": "Wellbeing Research Centre, University of Oxford, with Gallup and the UN SDSN",
+      "licence": "free to download with citation (no licence named)"
+    },
+    {
+      "id": "cmo",
+      "name": "Commodity Price Data (The Pink Sheet), annual 1960-2025",
+      "by": "World Bank",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "id": "oecdhp",
+      "name": "Analytical house prices: real house price index, annual 1970-2025",
+      "by": "OECD",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "id": "national",
+      "name": "National statistics offices",
+      "by": "as named in the note",
+      "licence": "reuse with credit"
+    }
+  ],
+  "disclaimer": "This life is a simulation drawn from real statistics. It is not a real person, a record or a forecast."
+}

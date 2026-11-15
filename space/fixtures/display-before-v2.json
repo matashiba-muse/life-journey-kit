@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "life_id": "life-20261113150956-001-921c",
+  "status": "active",
+  "updated_at": "2026-11-13T06:09:56+00:00",
+  "engine": "mock-1.0",
+  "person": {
+    "name": "Louis Martin",
+    "sex": "male",
+    "age": 6,
+    "year": 2032,
+    "country": "FRA",
+    "place": "town"
+  },
+  "state": {
+    "job": null,
+    "education": "primary",
+    "income": 0,
+    "net_worth": 0,
+    "health": 90,
+    "happiness": 70,
+    "knowledge": 10,
+    "bonds": 40,
+    "partner": null,
+    "children": 0
+  },
+  "events": [],
+  "timeline": [
+    [
+      0,
+      "FRAに生まれた（モック）"
+    ],
+    [
+      3,
+      "近所の子と遊ぶようになった（モック）"
+    ],
+    [
+      6,
+      "小学校に入学した（モック）"
+    ]
+  ],
+  "decision": {
+    "id": "school_start",
+    "question": "小学校に通い始める。どんなふうに過ごす？",
+    "about": "入学",
+    "fact": "モック用の決断カードです。実APIの文章ではありません。",
+    "choices": [
+      {
+        "key": "enjoy",
+        "label": "元気に遊んで学ぶ",
+        "note": "友達が増える"
+      },
+      {
+        "key": "focus",
+        "label": "勉強に集中する",
+        "note": "知識が伸びる"
+      }
+    ]
+  },
+  "focus": null,
+  "sheet": [
+    {
+      "id": "own_tv",
+      "name": "テレビ・冷蔵庫",
+      "does": "幸福 +5",
+      "price_ppp": 1682,
+      "can": false,
+      "why": "お金が足りません"
+    },
+    {
+      "id": "own_bike",
+      "name": "自転車",
+      "does": "幸福 +3",
+      "price_ppp": 421,
+      "can": true,
+      "why": null
+    },
+    {
+      "id": "dinner",
+      "name": "外食",
+      "does": "幸福 +2",
+      "price_ppp": 242,
+      "can": true,
+      "why": null
+    }
+  ],
+  "ended": false,
+  "death": null,
+  "last_choice": null,
+  "step_count": 0,
+  "counters": {
+    "step_intents": 0,
+    "confirmed_steps": 0,
+    "unknown_steps": 0
+  },
+  "revision": 2,
+  "last_incident": null,
+  "epilogue": null,
+  "animation": {
+    "kind": "thinking",
+    "signal": "decision_pending",
+    "health_trend": "flat",
+    "scene": "home"
+  },
+  "usage": {
+    "this_call": 1
+  },
+  "credit": "1in8b Engine (1in8b.life)",
+  "credit_url": "https://1in8b.life",
+  "sources": [
+    {
+      "id": "wpp",
+      "name": "UN World Population Prospects 2024",
+      "by": "UN DESA Population Division",
+      "licence": "CC BY 3.0 IGO"
+    },
+    {
+      "id": "igme",
+      "name": "UN Inter-agency Group for Child Mortality Estimation (UN IGME)",
+      "by": "UNICEF, WHO, World Bank, UN DESA",
+      "licence": "CC BY 4.0 (as published in World Bank WDI)"
+    },
+    {
+      "id": "wdi",
+      "name": "World Development Indicators",
+      "by": "World Bank",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "id": "hdr",
+      "name": "Human Development Report",
+      "by": "UNDP",
+      "licence": "CC BY 3.0 IGO"
+    },
+    {
+      "id": "migstock",
+      "name": "International Migrant Stock 2020",
+      "by": "UN DESA Population Division",
+      "licence": "CC BY 3.0 IGO"
+    },
+    {
+      "id": "ghe",
+      "name": "Global Health Estimates 2021",
+      "by": "World Health Organization",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "id": "whr",
+      "name": "World Happiness Report 2024 (Figure 2.1 data)",
+      "by": "Wellbeing Research Centre, University of Oxford, with Gallup and the UN SDSN",
+      "licence": "free to download with citation (no licence named)"
+    },
+    {
+      "id": "cmo",
+      "name": "Commodity Price Data (The Pink Sheet), annual 1960-2025",
+      "by": "World Bank",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "id": "oecdhp",
+      "name": "Analytical house prices: real house price index, annual 1970-2025",
+      "by": "OECD",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "id": "national",
+      "name": "National statistics offices",
+      "by": "as named in the note",
+      "licence": "reuse with credit"
+    }
+  ],
+  "disclaimer": "This life is a simulation drawn from real statistics. It is not a real person, a record or a forecast.",
+  "choices": []
+}

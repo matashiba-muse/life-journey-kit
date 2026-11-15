@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "life_id": "life-20261113150956-001-921c",
+  "base_revision": 2,
+  "target_revision": 3,
+  "replace": {},
+  "timeline_from": 3,
+  "timeline_append": [],
+  "choices_from": 0,
+  "choices_append": [],
+  "sheet_items": [
+    {
+      "id": "own_car",
+      "name": "車",
+      "does": "幸福 +8",
+      "price_ppp": 15431,
+      "can": false,
+      "why": "お金が足りません"
+    },
+    {
+      "id": "own_tv",
+      "name": "テレビ・冷蔵庫",
+      "does": "幸福 +5",
+      "price_ppp": 1682,
+      "can": true,
+      "why": null
+    }
+  ],
+  "sheet_remove": [
+    "dinner"
+  ],
+  "sheet_order": [
+    "own_bike",
+    "own_car",
+    "own_tv"
+  ]
+}

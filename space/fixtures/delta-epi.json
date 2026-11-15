@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "life_id": "life-20261114035524-001-d89f",
+  "base_revision": 9,
+  "target_revision": 10,
+  "replace": {
+    "updated_at": "2026-11-13T18:55:27+00:00",
+    "epilogue": {
+      "title": "総評サンプル",
+      "text": "モックの一生への総評サンプルです。大きな波はなかったけれど、悪くない一生でした。",
+      "written_on": "2026-11-14",
+      "at": "2026-11-13T18:55:27+00:00"
+    }
+  },
+  "timeline_from": 19,
+  "timeline_append": [],
+  "choices_from": 8,
+  "choices_append": [],
+  "chapters_from": 0,
+  "chapters_append": []
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "life_id": "life-20261113190820-001-dc7f",
+  "base_revision": 6,
+  "target_revision": 8,
+  "replace": {
+    "updated_at": "2026-11-13T10:08:22+00:00",
+    "key_acquired_on": "2026-01-15"
+  },
+  "timeline_from": 13,
+  "timeline_append": [],
+  "choices_from": 5,
+  "choices_append": [],
+  "chapters_from": 0,
+  "chapters_append": [
+    {
+      "index": 1,
+      "from_step": 1,
+      "to_step": 5,
+      "from_age": 6,
+      "to_age": 28,
+      "title": "最初の五つの決断",
+      "summary": "生まれてから五つ目の決断まで、モック人生の序盤をまとめた章。",
+      "at": "2026-11-13T10:08:22+00:00"
+    }
+  ]
+}
