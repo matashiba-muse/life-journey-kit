@@ -1,0 +1,750 @@
+{
+ "count": 149,
+ "files": [
+  {
+   "path": "backgrounds/elder.png",
+   "size": 684,
+   "sha256": "c1d22dced6be09a1476bb8db7513c4b12cc1fded2c9174bd120c2559732164c2"
+  },
+  {
+   "path": "backgrounds/ended-background.png",
+   "size": 1270,
+   "sha256": "1991a70bad84865265f05ba1a6d67b3cb881791c797ed3d1af753e7f9faf4266"
+  },
+  {
+   "path": "backgrounds/home.png",
+   "size": 779,
+   "sha256": "c3e81360278956d5a7ae62c3d67c4cdbaa92c5009b2aa32111643f2a8d6ab590"
+  },
+  {
+   "path": "backgrounds/school.png",
+   "size": 592,
+   "sha256": "598fb61c4c8a4a7ba755d8b36d4061b1d60873c6bda5dcbe19bffd96601cb644"
+  },
+  {
+   "path": "backgrounds/work.png",
+   "size": 761,
+   "sha256": "bfd734c8306f93ccddb5e3a8c6d1952ac4c9e20b9e0cdfef00ca004b0780f2e4"
+  },
+  {
+   "path": "frames/adult-female-happy-0.png",
+   "size": 440,
+   "sha256": "15ed7cc668b293236ed04f671b0cef5e44d4803c862c03f3c188dff13e9cdb01"
+  },
+  {
+   "path": "frames/adult-female-happy-1.png",
+   "size": 465,
+   "sha256": "630e9a260e03248ab7de9ab6512ea305b59fe568ef6316596eca1804ff5078ce"
+  },
+  {
+   "path": "frames/adult-female-idle-0.png",
+   "size": 442,
+   "sha256": "935579273a4eb406814b0e439c52ac879cb3948d5e2b8b75b50706ba38c5f263"
+  },
+  {
+   "path": "frames/adult-female-idle-1.png",
+   "size": 445,
+   "sha256": "e89f61dfd5a7e758886c6b0e3cb9a4bb38e079a8e3876d537b4b935f32a93261"
+  },
+  {
+   "path": "frames/adult-female-sad-0.png",
+   "size": 481,
+   "sha256": "81cd8f61d1a90f959cf7199919820c02ec9e820c08f91bc59a259aed1f5f4fcd"
+  },
+  {
+   "path": "frames/adult-female-sad-1.png",
+   "size": 466,
+   "sha256": "01c704f98559bcca1cdeb6b651bf1dbc2b11d101ba16b81b5950580dbdaf3066"
+  },
+  {
+   "path": "frames/adult-female-thinking-0.png",
+   "size": 480,
+   "sha256": "519f9ec2dc3640e9baeedd47b50212854a3498b2fdcd4814090380a062e4416c"
+  },
+  {
+   "path": "frames/adult-female-thinking-1.png",
+   "size": 488,
+   "sha256": "53d93a74cf4b74bf6fdf14e76e76e9b1e307dd1ec67f146370e349f6e55c59dd"
+  },
+  {
+   "path": "frames/adult-female-walk-0.png",
+   "size": 438,
+   "sha256": "e7cdfb9e14906e8db0bd4ad0f06d599cb316a86c4f3f0ccfe043f7d8c2dc4d60"
+  },
+  {
+   "path": "frames/adult-female-walk-1.png",
+   "size": 445,
+   "sha256": "e89f61dfd5a7e758886c6b0e3cb9a4bb38e079a8e3876d537b4b935f32a93261"
+  },
+  {
+   "path": "frames/adult-female-walk-2.png",
+   "size": 437,
+   "sha256": "915b07f9f9c522d785720c42bde99bd69d66d14bf1aca03f96a09ff5042f7a75"
+  },
+  {
+   "path": "frames/adult-female-walk-3.png",
+   "size": 445,
+   "sha256": "e89f61dfd5a7e758886c6b0e3cb9a4bb38e079a8e3876d537b4b935f32a93261"
+  },
+  {
+   "path": "frames/adult-male-happy-0.png",
+   "size": 395,
+   "sha256": "cf77ecfac405c1e3218a534155a9abe6a820e45be2a06e79f7eca12f385aaa0a"
+  },
+  {
+   "path": "frames/adult-male-happy-1.png",
+   "size": 404,
+   "sha256": "45183b6aad35688fb184d9c21266c4ea6f8e82c88e4bf016c8ccd494ede0c67f"
+  },
+  {
+   "path": "frames/adult-male-idle-0.png",
+   "size": 391,
+   "sha256": "53fe784f454b8b35a0f3f2fcec313c641b541fcb55a09765843d0ebba971f520"
+  },
+  {
+   "path": "frames/adult-male-idle-1.png",
+   "size": 392,
+   "sha256": "bdf43a62c38aeb5df7f5527b534ecd4cd95de93c2b7bed6c91a16024193ba103"
+  },
+  {
+   "path": "frames/adult-male-sad-0.png",
+   "size": 432,
+   "sha256": "426fc7d95a9115e15e14a8e64f3a5409ce2c5081f29ab656ac8092cbd224b688"
+  },
+  {
+   "path": "frames/adult-male-sad-1.png",
+   "size": 420,
+   "sha256": "d6bfc41ae88fe199bb0f4b78900d621989e1824fede1c93be64e0b4bd450f2f4"
+  },
+  {
+   "path": "frames/adult-male-thinking-0.png",
+   "size": 425,
+   "sha256": "65e7d32df7223ced56bbaa9866cc923e7418672f150dd6ba53513771f9444e6b"
+  },
+  {
+   "path": "frames/adult-male-thinking-1.png",
+   "size": 425,
+   "sha256": "81345555b81c9e20706827234afe11b2c6690933c81ab43fc6f2a3b0cf3b0e82"
+  },
+  {
+   "path": "frames/adult-male-walk-0.png",
+   "size": 416,
+   "sha256": "a3277968a5942724c8e8a9c94688f7eebd4e1d514555596612e9e0ed2873c26b"
+  },
+  {
+   "path": "frames/adult-male-walk-1.png",
+   "size": 392,
+   "sha256": "bdf43a62c38aeb5df7f5527b534ecd4cd95de93c2b7bed6c91a16024193ba103"
+  },
+  {
+   "path": "frames/adult-male-walk-2.png",
+   "size": 409,
+   "sha256": "3966d6750a47e366915f1db8cdf9e80e765c25005158f57ba20f96f15b25b108"
+  },
+  {
+   "path": "frames/adult-male-walk-3.png",
+   "size": 392,
+   "sha256": "bdf43a62c38aeb5df7f5527b534ecd4cd95de93c2b7bed6c91a16024193ba103"
+  },
+  {
+   "path": "frames/child-female-happy-0.png",
+   "size": 432,
+   "sha256": "3a09bf673e19d8530badfc7609d1fb821a49ee32994730fe3ed3c4f4ea2b3cfb"
+  },
+  {
+   "path": "frames/child-female-happy-1.png",
+   "size": 439,
+   "sha256": "f5c1dbede599e5665a52b7f6d414dd0b004df315a468562dbf471cedbfdc255c"
+  },
+  {
+   "path": "frames/child-female-idle-0.png",
+   "size": 379,
+   "sha256": "25b6e0c0a333fe3173c27fffbfd5b4a5a3c1c2757922868be3adc61012657504"
+  },
+  {
+   "path": "frames/child-female-idle-1.png",
+   "size": 379,
+   "sha256": "49c9e2968ebee5b9e01dcbf7dccecf9adb09b6def0c728bc82d130f57485b0ec"
+  },
+  {
+   "path": "frames/child-female-sad-0.png",
+   "size": 437,
+   "sha256": "5b4440a73de53f9447143950e8b74e6b8f3313cae06bd7663f2db4dfa11aa9be"
+  },
+  {
+   "path": "frames/child-female-sad-1.png",
+   "size": 446,
+   "sha256": "b45cb294b976ee7dac8c788c1a1f57e5348eee1c93a68bbce6e2795b92c56b68"
+  },
+  {
+   "path": "frames/child-female-thinking-0.png",
+   "size": 413,
+   "sha256": "174bff6a585ecb1681aa653e12917ee871e42141d96e057d1ccc51979858ed11"
+  },
+  {
+   "path": "frames/child-female-thinking-1.png",
+   "size": 424,
+   "sha256": "b00a2ebfd24e133450652f7222162d7f8a8f8b3512fd91c2ea1db89bba47e101"
+  },
+  {
+   "path": "frames/child-female-walk-0.png",
+   "size": 392,
+   "sha256": "cbaa9cbaa6e1ff5f211296f477e3b9543b7cce8c146170bc6b715f2776643ea7"
+  },
+  {
+   "path": "frames/child-female-walk-1.png",
+   "size": 379,
+   "sha256": "49c9e2968ebee5b9e01dcbf7dccecf9adb09b6def0c728bc82d130f57485b0ec"
+  },
+  {
+   "path": "frames/child-female-walk-2.png",
+   "size": 376,
+   "sha256": "a65c7f1a8348fdb229cc1479722a9f09f1496cb3062832d836bb64f2e6c7b46b"
+  },
+  {
+   "path": "frames/child-female-walk-3.png",
+   "size": 379,
+   "sha256": "49c9e2968ebee5b9e01dcbf7dccecf9adb09b6def0c728bc82d130f57485b0ec"
+  },
+  {
+   "path": "frames/child-male-happy-0.png",
+   "size": 385,
+   "sha256": "b703872547440056dc653585377c713f0b2bdf3cb128a13cab847570031abedc"
+  },
+  {
+   "path": "frames/child-male-happy-1.png",
+   "size": 387,
+   "sha256": "62652b0d324a833c88f9629761a7b2b4d5f9257c56ce3c0986066fbec7937b5e"
+  },
+  {
+   "path": "frames/child-male-idle-0.png",
+   "size": 365,
+   "sha256": "b93fccb135c5b31584969076b4e5a97edf2a0e8bc303b078c1d7717a56707372"
+  },
+  {
+   "path": "frames/child-male-idle-1.png",
+   "size": 364,
+   "sha256": "0a2526818c11cc185a76393efa311762be5a941506937ea7d724044e6706b628"
+  },
+  {
+   "path": "frames/child-male-sad-0.png",
+   "size": 393,
+   "sha256": "07815c554c13d767471083c74004a0f94d929f54e6710eb6309e44c6d440d2df"
+  },
+  {
+   "path": "frames/child-male-sad-1.png",
+   "size": 395,
+   "sha256": "15d7d037c1e27abd73f2f7638d539772f080198365facf172a314dff0534be8b"
+  },
+  {
+   "path": "frames/child-male-thinking-0.png",
+   "size": 389,
+   "sha256": "676e1b3f7c5946016ec32486b66ff2a24777d053079812102c9ef4d02782c9e3"
+  },
+  {
+   "path": "frames/child-male-thinking-1.png",
+   "size": 385,
+   "sha256": "2967b57feac0c0bb5098db7d4256613a69e8729149f0e5754fdfe4f4d5ba9c34"
+  },
+  {
+   "path": "frames/child-male-walk-0.png",
+   "size": 386,
+   "sha256": "ef76861b40506e03678b05224baded199e62fe8ad74ed18006f0b4a2eb748ebe"
+  },
+  {
+   "path": "frames/child-male-walk-1.png",
+   "size": 364,
+   "sha256": "0a2526818c11cc185a76393efa311762be5a941506937ea7d724044e6706b628"
+  },
+  {
+   "path": "frames/child-male-walk-2.png",
+   "size": 376,
+   "sha256": "e590be27bbde7be14d9e36690de7c21dda256e9d02c6b9a4bfc23698db120c58"
+  },
+  {
+   "path": "frames/child-male-walk-3.png",
+   "size": 364,
+   "sha256": "0a2526818c11cc185a76393efa311762be5a941506937ea7d724044e6706b628"
+  },
+  {
+   "path": "frames/elder-female-happy-0.png",
+   "size": 455,
+   "sha256": "5213ac266107383f54b9254eb25829b72fa7514d0bf43de168abe2fb8ca27bd4"
+  },
+  {
+   "path": "frames/elder-female-happy-1.png",
+   "size": 469,
+   "sha256": "fd7cd9b85536722d413ea2954d7304b10110b150b1a25092c1ed0525c0110844"
+  },
+  {
+   "path": "frames/elder-female-idle-0.png",
+   "size": 501,
+   "sha256": "8ea3f9e29eb2b32790c41357a8e8202b8bb3e024b43a06ea2d194836db731aa0"
+  },
+  {
+   "path": "frames/elder-female-idle-1.png",
+   "size": 502,
+   "sha256": "3bd0c57452e9165c90763b986103e4759e15679af382d4734f51d0d7336bc929"
+  },
+  {
+   "path": "frames/elder-female-sad-0.png",
+   "size": 503,
+   "sha256": "bc4862c4a9a670c7fc7d5f7b807ed4415274f8a18160a75d5c99a9d23d5a0d99"
+  },
+  {
+   "path": "frames/elder-female-sad-1.png",
+   "size": 509,
+   "sha256": "1e566a52ae882462beacdaf0fa8a9b32d7bc017af3beab0018cfb464429979e8"
+  },
+  {
+   "path": "frames/elder-female-thinking-0.png",
+   "size": 470,
+   "sha256": "5678019c5b2077b5c40719df3a9d514a64d3d0e46151f7764e6c88813ba98121"
+  },
+  {
+   "path": "frames/elder-female-thinking-1.png",
+   "size": 468,
+   "sha256": "c12682bfb79e003e84dbe86539b2f548012ef25f6c322f5e5d8736b934df969d"
+  },
+  {
+   "path": "frames/elder-female-walk-0.png",
+   "size": 515,
+   "sha256": "ebdcdeb8035a5292bc7facd09e23a6e81b8cdddf867f8ce487d62baadd2bea2f"
+  },
+  {
+   "path": "frames/elder-female-walk-1.png",
+   "size": 502,
+   "sha256": "3bd0c57452e9165c90763b986103e4759e15679af382d4734f51d0d7336bc929"
+  },
+  {
+   "path": "frames/elder-female-walk-2.png",
+   "size": 500,
+   "sha256": "d4616fd06a9dbaabca77c4187895ffb7e11fe300e6337a40f60af004d23e5dff"
+  },
+  {
+   "path": "frames/elder-female-walk-3.png",
+   "size": 502,
+   "sha256": "3bd0c57452e9165c90763b986103e4759e15679af382d4734f51d0d7336bc929"
+  },
+  {
+   "path": "frames/elder-male-happy-0.png",
+   "size": 379,
+   "sha256": "ecaf7f74769a5326aeeff97399b378999c9d56ffd024ac1931e6116fa87ea592"
+  },
+  {
+   "path": "frames/elder-male-happy-1.png",
+   "size": 366,
+   "sha256": "6ed2f9434d7c528607b5723437358bf4468aac16f1c0be403ce8fce28387e3e7"
+  },
+  {
+   "path": "frames/elder-male-idle-0.png",
+   "size": 414,
+   "sha256": "53b5e3ba9fd61f90d65967284436f40c226276dc032a98c480a51977e198dbe6"
+  },
+  {
+   "path": "frames/elder-male-idle-1.png",
+   "size": 412,
+   "sha256": "f71800165e61a530dde5e084ad1edbbe78ae404ae0ac9ee54bfde415e52909cb"
+  },
+  {
+   "path": "frames/elder-male-sad-0.png",
+   "size": 420,
+   "sha256": "ea14923bff6bfdd1a121be59a6e0d75c94f72bea839945f1e9a3992ace7ce0b5"
+  },
+  {
+   "path": "frames/elder-male-sad-1.png",
+   "size": 416,
+   "sha256": "d3496f7871584ab825735cd0beb85341b53d560a50dcf6ed82a51ed3c34bc5df"
+  },
+  {
+   "path": "frames/elder-male-thinking-0.png",
+   "size": 385,
+   "sha256": "363356c246dbf1bc9816fff962f64fea8bcb7b36f9fb36ee8c4d3b62ab06e6df"
+  },
+  {
+   "path": "frames/elder-male-thinking-1.png",
+   "size": 378,
+   "sha256": "a106fd6d481c46b2b31f86aec691c8cccc0b7672ae3d73874ee59d8c79bef334"
+  },
+  {
+   "path": "frames/elder-male-walk-0.png",
+   "size": 428,
+   "sha256": "787f3036cfa0e4b47562fefc27be11e23960e674fae49b4fc65fb990a6cf41bc"
+  },
+  {
+   "path": "frames/elder-male-walk-1.png",
+   "size": 412,
+   "sha256": "f71800165e61a530dde5e084ad1edbbe78ae404ae0ac9ee54bfde415e52909cb"
+  },
+  {
+   "path": "frames/elder-male-walk-2.png",
+   "size": 416,
+   "sha256": "ebdad7032c28ddc2a09807db74a92dae9bd4c167d2c8384390b0dd65e4dedbfe"
+  },
+  {
+   "path": "frames/elder-male-walk-3.png",
+   "size": 412,
+   "sha256": "f71800165e61a530dde5e084ad1edbbe78ae404ae0ac9ee54bfde415e52909cb"
+  },
+  {
+   "path": "frames/middle-female-happy-0.png",
+   "size": 458,
+   "sha256": "cef22acc8fa23797617da4faddf2ec8833b874c7eef50326f30532636e912c4d"
+  },
+  {
+   "path": "frames/middle-female-happy-1.png",
+   "size": 474,
+   "sha256": "15eab5ab0a240aa186b62f9510f0102d2b9c799180ac9554de493642fb4bb148"
+  },
+  {
+   "path": "frames/middle-female-idle-0.png",
+   "size": 459,
+   "sha256": "6b42659f45d2c9f738e6c7116e951399c0290b76dadd02610b150ea1c11be8a1"
+  },
+  {
+   "path": "frames/middle-female-idle-1.png",
+   "size": 462,
+   "sha256": "fac70452dc9b69ff65245cef1176103bafd3ceebe22044b4c69935dbad247587"
+  },
+  {
+   "path": "frames/middle-female-sad-0.png",
+   "size": 493,
+   "sha256": "98ea6098626a566a0786721332440584ffc79a16f4acbfe0597eb6ce94efea78"
+  },
+  {
+   "path": "frames/middle-female-sad-1.png",
+   "size": 475,
+   "sha256": "7d71c1e7d794dd1fbf6c23ab9433bd9cbdba695f9643ec59e50d53514d99e299"
+  },
+  {
+   "path": "frames/middle-female-thinking-0.png",
+   "size": 498,
+   "sha256": "3d483d71bc76f7f390c41d097248302ef027dd5b9b08f38ebab8d7adfb3bd848"
+  },
+  {
+   "path": "frames/middle-female-thinking-1.png",
+   "size": 500,
+   "sha256": "cbd528ba64191b022b8ae6d6c2e5f1ea9f0af420f97953320d59b8f219fe620a"
+  },
+  {
+   "path": "frames/middle-female-walk-0.png",
+   "size": 461,
+   "sha256": "bd05857c96145a3ec8f6957630b69ada5628b9cb2c9207f69584263140ac935b"
+  },
+  {
+   "path": "frames/middle-female-walk-1.png",
+   "size": 462,
+   "sha256": "fac70452dc9b69ff65245cef1176103bafd3ceebe22044b4c69935dbad247587"
+  },
+  {
+   "path": "frames/middle-female-walk-2.png",
+   "size": 454,
+   "sha256": "301f5e01c7fdc17cede21f0e01055cab26849754869affa970ec544459504508"
+  },
+  {
+   "path": "frames/middle-female-walk-3.png",
+   "size": 462,
+   "sha256": "fac70452dc9b69ff65245cef1176103bafd3ceebe22044b4c69935dbad247587"
+  },
+  {
+   "path": "frames/middle-male-happy-0.png",
+   "size": 411,
+   "sha256": "841c12387d88ad2b2eda4e640ccaa3d7ad22883d3b55265218d405acf23dcf7a"
+  },
+  {
+   "path": "frames/middle-male-happy-1.png",
+   "size": 416,
+   "sha256": "69c9c06442dcc7ac7cbd5b56f33d34f795f4fa17e9ebe1c93ee082ab28b0a651"
+  },
+  {
+   "path": "frames/middle-male-idle-0.png",
+   "size": 410,
+   "sha256": "e678298f2f46ac562e364723305b83d763b22e31289c525c1c07afecf8ef9cf0"
+  },
+  {
+   "path": "frames/middle-male-idle-1.png",
+   "size": 410,
+   "sha256": "a2a20952b7f1df81d496deb24e1f6258f8d208e46ea2b7b113c7fd4092ae8524"
+  },
+  {
+   "path": "frames/middle-male-sad-0.png",
+   "size": 447,
+   "sha256": "3036089de33b703e90166263dc19d1a6b825386a1d5693cfd5120b8ce69071ad"
+  },
+  {
+   "path": "frames/middle-male-sad-1.png",
+   "size": 434,
+   "sha256": "35a56e004fd909a6029aded2054142e8ef6ae173f0db9d85f8d81539f9e47e26"
+  },
+  {
+   "path": "frames/middle-male-thinking-0.png",
+   "size": 424,
+   "sha256": "ff03c2ad4a6607627a3da69a68746bd8745225d70aabee1fbc905f6dbb23ed55"
+  },
+  {
+   "path": "frames/middle-male-thinking-1.png",
+   "size": 423,
+   "sha256": "7820ac3d65b4a2a10c7262d92f31e83712e9b6c23bec3741515c8fbb36c29ca7"
+  },
+  {
+   "path": "frames/middle-male-walk-0.png",
+   "size": 434,
+   "sha256": "fc1e844f113b72ae28df887b6b0000e4586ca9eace946ea62e6196fa301987a3"
+  },
+  {
+   "path": "frames/middle-male-walk-1.png",
+   "size": 410,
+   "sha256": "a2a20952b7f1df81d496deb24e1f6258f8d208e46ea2b7b113c7fd4092ae8524"
+  },
+  {
+   "path": "frames/middle-male-walk-2.png",
+   "size": 430,
+   "sha256": "53e7708368e058ce031c1f0781b46b15f6a5051bd9a446a50c95e2d73d2f228f"
+  },
+  {
+   "path": "frames/middle-male-walk-3.png",
+   "size": 410,
+   "sha256": "a2a20952b7f1df81d496deb24e1f6258f8d208e46ea2b7b113c7fd4092ae8524"
+  },
+  {
+   "path": "frames/toddler-female-happy-0.png",
+   "size": 400,
+   "sha256": "391a87c71540bf4dba8d1e06b21ba17090a85a522d8d9468c1f744789ff43763"
+  },
+  {
+   "path": "frames/toddler-female-happy-1.png",
+   "size": 388,
+   "sha256": "841648cdfa6de9fe152a6fec27dfaea73a8db84d8e7b53740cbba302ae35f55f"
+  },
+  {
+   "path": "frames/toddler-female-idle-0.png",
+   "size": 358,
+   "sha256": "187451f69bb8fc94ca9c630379cd2ed205a6e31411eab3bf89f8e89e984328e3"
+  },
+  {
+   "path": "frames/toddler-female-idle-1.png",
+   "size": 361,
+   "sha256": "1ac39d1a1c9342dfff13f4c9057689b65517b2651130b2b1565835a6544fa26c"
+  },
+  {
+   "path": "frames/toddler-female-sad-0.png",
+   "size": 386,
+   "sha256": "34c24464e4ba566d9eb50bb0967c378d4b3e598a33a37f59e7d8446cb9a4d1e6"
+  },
+  {
+   "path": "frames/toddler-female-sad-1.png",
+   "size": 373,
+   "sha256": "2b28ac586448eb4b29e2b971df248a58646bfd85b4ad331b29e5d7bdec8cf7e3"
+  },
+  {
+   "path": "frames/toddler-female-thinking-0.png",
+   "size": 366,
+   "sha256": "80145a6ae844b48fa378139e9e28be45821db88325db8fd66272381f0b73bb79"
+  },
+  {
+   "path": "frames/toddler-female-thinking-1.png",
+   "size": 377,
+   "sha256": "a7335d0b410d7c98a4decf1131b9dafd459a17c885243db7c0286f71cfb524ae"
+  },
+  {
+   "path": "frames/toddler-female-walk-0.png",
+   "size": 359,
+   "sha256": "8547ece3101c6da21f80be66343f423c2a214c3bc779b1e239f4bbae5bc88f12"
+  },
+  {
+   "path": "frames/toddler-female-walk-1.png",
+   "size": 361,
+   "sha256": "1ac39d1a1c9342dfff13f4c9057689b65517b2651130b2b1565835a6544fa26c"
+  },
+  {
+   "path": "frames/toddler-female-walk-2.png",
+   "size": 354,
+   "sha256": "204d4adc519a411535b66bd22fae25f07c45eac1c2015df46baac6d91269491b"
+  },
+  {
+   "path": "frames/toddler-female-walk-3.png",
+   "size": 361,
+   "sha256": "1ac39d1a1c9342dfff13f4c9057689b65517b2651130b2b1565835a6544fa26c"
+  },
+  {
+   "path": "frames/toddler-male-happy-0.png",
+   "size": 362,
+   "sha256": "c4513656ca35d71e24208fc6d95196a6ec50ae3949231f5f520f0a64c639b9ba"
+  },
+  {
+   "path": "frames/toddler-male-happy-1.png",
+   "size": 345,
+   "sha256": "bc82eb9850e3758eb90ea8bb84d664a2e4d1cc644b6aed2368fcfd556dc9e9de"
+  },
+  {
+   "path": "frames/toddler-male-idle-0.png",
+   "size": 332,
+   "sha256": "5ee5fdb71b81c21202498f66f1fcbf9d5ef23541b5e06ca5b157b02f178f1189"
+  },
+  {
+   "path": "frames/toddler-male-idle-1.png",
+   "size": 335,
+   "sha256": "8dd7afef09b93f91ac4d85216497bad5352cd77f789a45b9ee9a6e6b07e3b88c"
+  },
+  {
+   "path": "frames/toddler-male-sad-0.png",
+   "size": 362,
+   "sha256": "eb1b939c1088cbb9d16b2766f889b47b55304fd42f5d72c603518142d773e72c"
+  },
+  {
+   "path": "frames/toddler-male-sad-1.png",
+   "size": 353,
+   "sha256": "410047089d89e196528cd6afece0678c1708d054e00786f0e669b5e1d17a133a"
+  },
+  {
+   "path": "frames/toddler-male-thinking-0.png",
+   "size": 343,
+   "sha256": "c9cbf5aacfb01be0ef6912a9c618af71572e1d157c23bfa00b0401ebc1c04a08"
+  },
+  {
+   "path": "frames/toddler-male-thinking-1.png",
+   "size": 341,
+   "sha256": "451e2ae015420f1b8b95f065893441a2787a6a5ae78ab57cf4dc263e4633ff17"
+  },
+  {
+   "path": "frames/toddler-male-walk-0.png",
+   "size": 338,
+   "sha256": "04e7f06a02b9a19d0866c30cf82a40386b4f8d06d8b566bf7f337ced37ae7e3f"
+  },
+  {
+   "path": "frames/toddler-male-walk-1.png",
+   "size": 335,
+   "sha256": "8dd7afef09b93f91ac4d85216497bad5352cd77f789a45b9ee9a6e6b07e3b88c"
+  },
+  {
+   "path": "frames/toddler-male-walk-2.png",
+   "size": 335,
+   "sha256": "040a92a4536daa6865029ec8c21b6ed822ffad58cd68685452500473a6b66d9d"
+  },
+  {
+   "path": "frames/toddler-male-walk-3.png",
+   "size": 335,
+   "sha256": "8dd7afef09b93f91ac4d85216497bad5352cd77f789a45b9ee9a6e6b07e3b88c"
+  },
+  {
+   "path": "frames/youth-female-happy-0.png",
+   "size": 425,
+   "sha256": "66ee1a9adf7f2068cbbf6a3dffeaed75e43574846b1bc3307dfa27a6bf0dd324"
+  },
+  {
+   "path": "frames/youth-female-happy-1.png",
+   "size": 439,
+   "sha256": "d9fd22249ade8bdc5367d4f2863e1676def99a10f3065690d5087e5308f5f382"
+  },
+  {
+   "path": "frames/youth-female-idle-0.png",
+   "size": 415,
+   "sha256": "b938f1e334181a1e81590d5b5b07a9322491fa9cecc0e8c9269ef9ee8e7799d6"
+  },
+  {
+   "path": "frames/youth-female-idle-1.png",
+   "size": 417,
+   "sha256": "b9999639bcca328cea21b0cb51878eb4e59228ca904d0ae40dba9ea837f37334"
+  },
+  {
+   "path": "frames/youth-female-sad-0.png",
+   "size": 459,
+   "sha256": "6cc5cf214f5b9400985c60ce414d7d1149dcc1b5c1246cbd3cf6a8116a2d9406"
+  },
+  {
+   "path": "frames/youth-female-sad-1.png",
+   "size": 466,
+   "sha256": "5653d0a6d576ad488e7defa3d742a1d08a70544dfbf931c76a17db80e800f5e8"
+  },
+  {
+   "path": "frames/youth-female-thinking-0.png",
+   "size": 467,
+   "sha256": "a1194327253dc7a1764fc7300aa55a5632ef41b6597bfdfae8ab63e57f6d5ec1"
+  },
+  {
+   "path": "frames/youth-female-thinking-1.png",
+   "size": 442,
+   "sha256": "5b473014f421542724055b96e3a3e2f7b688552c7e7efcb2738a167d38bcb9d5"
+  },
+  {
+   "path": "frames/youth-female-walk-0.png",
+   "size": 412,
+   "sha256": "4b1235b87de91dafbf698f72dd959230d2bd6c1cdb741639534606ff77c91f78"
+  },
+  {
+   "path": "frames/youth-female-walk-1.png",
+   "size": 417,
+   "sha256": "b9999639bcca328cea21b0cb51878eb4e59228ca904d0ae40dba9ea837f37334"
+  },
+  {
+   "path": "frames/youth-female-walk-2.png",
+   "size": 418,
+   "sha256": "1322eeb33192f3ff9054e692ce9e464dd4a6ff36c2eedda5ec2930842edea2d8"
+  },
+  {
+   "path": "frames/youth-female-walk-3.png",
+   "size": 417,
+   "sha256": "b9999639bcca328cea21b0cb51878eb4e59228ca904d0ae40dba9ea837f37334"
+  },
+  {
+   "path": "frames/youth-male-happy-0.png",
+   "size": 386,
+   "sha256": "5fdefc52e99693108c8ce3475572044974d79d85ad1d814c36d468a89d520741"
+  },
+  {
+   "path": "frames/youth-male-happy-1.png",
+   "size": 387,
+   "sha256": "35e035a07b1a0d85927377246ed31150036a8057196cb8a101c6b36435b19d67"
+  },
+  {
+   "path": "frames/youth-male-idle-0.png",
+   "size": 365,
+   "sha256": "0150a9c127842bed72f8a93dcf4065f511dd8739f9ed6d051fd8da4360d55cec"
+  },
+  {
+   "path": "frames/youth-male-idle-1.png",
+   "size": 366,
+   "sha256": "a31a68960c6e621c89a6edc55e699192d2085af0391b156040983f062fb5010c"
+  },
+  {
+   "path": "frames/youth-male-sad-0.png",
+   "size": 402,
+   "sha256": "a429b457bb59787d82bde9fad659ac833b36949ade49f74a7b21e404186cb2d3"
+  },
+  {
+   "path": "frames/youth-male-sad-1.png",
+   "size": 407,
+   "sha256": "90bdb3ccfecf84e292eea873e64662a3a9b96b2abd9dd53905aa2b9f165f694f"
+  },
+  {
+   "path": "frames/youth-male-thinking-0.png",
+   "size": 409,
+   "sha256": "140ef55b1542a62935e05048a5d80ba7c623e00f72a08c7f324b43e92f6af8c3"
+  },
+  {
+   "path": "frames/youth-male-thinking-1.png",
+   "size": 396,
+   "sha256": "68b0eaad1b248dc8a4f0355f9e03bca5b5b8f2ee748704093fbfb3ed029664b3"
+  },
+  {
+   "path": "frames/youth-male-walk-0.png",
+   "size": 387,
+   "sha256": "b0199978e889273698e3c7a7822a27257f2bfcb737bd5877258c88307fa3b7ba"
+  },
+  {
+   "path": "frames/youth-male-walk-1.png",
+   "size": 366,
+   "sha256": "a31a68960c6e621c89a6edc55e699192d2085af0391b156040983f062fb5010c"
+  },
+  {
+   "path": "frames/youth-male-walk-2.png",
+   "size": 384,
+   "sha256": "c3b0c2cada1bc734f659225dc085e119842bd9ada4d7f48e02a48b5bcd979f07"
+  },
+  {
+   "path": "frames/youth-male-walk-3.png",
+   "size": 366,
+   "sha256": "a31a68960c6e621c89a6edc55e699192d2085af0391b156040983f062fb5010c"
+  }
+ ]
+}
