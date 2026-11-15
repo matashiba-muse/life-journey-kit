@@ -1,0 +1,5 @@
+name: "life_journey"
+title: "Life Journey"
+description: "Play one simulated life step by step through the 1in8b Engine, choosing as the person in the life and recording a short reason for each choice, so the user can watch a life unfold."
+category: "Work and knowledge"
+include_in_prompt: true
